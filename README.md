@@ -1,11 +1,11 @@
 #### University Management System (Python)
 
-####### Project Overview
+Project Overview
 The **University Management System** is a Python-based project that manages **students, employees, and courses** in a university.  
 It demonstrates **Object-Oriented Programming (OOP)** principles such as inheritance and encapsulation, and integrates Python’s **logging module** for debugging and tracking.
 
 
-###### Features
+ Features
 - **Student Management**
   - Add new students with details (name, roll number, branch, email).  
   - Prevent duplicate student entries.  
@@ -25,8 +25,7 @@ It demonstrates **Object-Oriented Programming (OOP)** principles such as inherit
 - **Logging**
   - Every action is logged into `main.log` with `INFO`, `DEBUG`, and `WARNING` levels.
 
-
-##### Tech Stack
+ Tech Stack
 - **Language:** Python  
 - **Concepts Used:** OOP (Classes, Inheritance), File Handling, Logging  
 
