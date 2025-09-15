@@ -1,0 +1,272 @@
+[2025-09-09 16:40:53,869 - INFO]-student successfully added into university
+[2025-09-09 16:40:53,869 - INFO]-('21bce8891', ['vishnu', 'ds', None])
+[2025-09-09 17:11:05,650 - INFO]-student successfully added into university
+[2025-09-09 17:11:05,651 - INFO]-('21bce8891', ['vishnu', 'ds', None])
+[2025-09-09 17:14:14,413 - INFO]-student successfully added into university
+[2025-09-09 17:14:14,414 - INFO]-student successfully added into university
+[2025-09-09 17:14:14,414 - INFO]-student successfully added into university
+[2025-09-09 17:14:14,415 - INFO]-('21bce8891', ['vishnu', 'ds', None])
+[2025-09-09 17:14:14,416 - INFO]-('21bce9574', ['neha', 'ds', None])
+[2025-09-09 17:25:43,344 - INFO]-student successfully added into university
+[2025-09-09 17:25:43,345 - INFO]-student successfully added into university
+[2025-09-09 17:25:43,345 - INFO]-student successfully added into university
+[2025-09-09 17:25:43,346 - INFO]-employee successfully added into university
+[2025-09-09 17:25:43,346 - INFO]-employee successfully added into university
+[2025-09-09 17:25:43,347 - INFO]-employee successfully added into university
+[2025-09-09 17:25:43,348 - INFO]-('21bce8891', ['vishnu', 'ds', None])
+[2025-09-09 17:25:43,348 - INFO]-('21bce9574', ['neha', 'ds', None])
+[2025-09-09 17:26:48,008 - INFO]-student successfully added into university
+[2025-09-09 17:26:48,009 - INFO]-student successfully added into university
+[2025-09-09 17:26:48,010 - INFO]-student successfully added into university
+[2025-09-09 17:26:48,011 - INFO]-employee successfully added into university
+[2025-09-09 17:26:48,012 - INFO]-employee successfully added into university
+[2025-09-09 17:26:48,013 - INFO]-employee successfully added into university
+[2025-09-09 17:26:48,014 - INFO]-('21bce8891', ['vishnu', 'ds', None])
+[2025-09-09 17:26:48,014 - INFO]-('21bce9574', ['neha', 'ds', None])
+[2025-09-09 17:29:15,328 - INFO]-student successfully added into university
+[2025-09-09 17:29:15,328 - INFO]-student successfully added into university
+[2025-09-09 17:29:15,329 - INFO]-student successfully added into university
+[2025-09-09 17:29:15,329 - INFO]-employee successfully added into university
+[2025-09-09 17:29:15,330 - INFO]-employee successfully added into university
+[2025-09-09 17:29:15,330 - INFO]-employee successfully added into university
+[2025-09-09 17:29:15,330 - INFO]-('21bce8891', ['vishnu', 'ds', None])
+[2025-09-09 17:29:15,331 - INFO]-('21bce9574', ['neha', 'ds', None])
+[2025-09-09 17:29:38,998 - INFO]-student successfully added into university
+[2025-09-09 17:29:38,998 - INFO]-student successfully added into university
+[2025-09-09 17:29:38,998 - INFO]-student successfully added into university
+[2025-09-09 17:29:38,999 - INFO]-employee successfully added into university
+[2025-09-09 17:29:38,999 - INFO]-employee successfully added into university
+[2025-09-09 17:29:39,000 - INFO]-employee successfully added into university
+[2025-09-09 17:29:39,000 - INFO]-('21bce8891', ['vishnu', 'ds', None])
+[2025-09-09 17:29:39,001 - INFO]-('21bce9574', ['neha', 'ds', None])
+[2025-09-09 17:32:29,859 - INFO]-student successfully added into university
+[2025-09-09 17:32:29,859 - INFO]-student successfully added into university
+[2025-09-09 17:32:29,860 - INFO]-student successfully added into university
+[2025-09-09 17:32:29,860 - INFO]-employee successfully added into university
+[2025-09-09 17:32:29,861 - INFO]-employee successfully added into university
+[2025-09-09 17:32:29,861 - INFO]-employee successfully added into university
+[2025-09-09 17:35:47,438 - INFO]-student successfully added into university
+[2025-09-09 17:35:47,438 - INFO]-student successfully added into university
+[2025-09-09 17:35:47,439 - INFO]-student successfully added into university
+[2025-09-09 17:35:47,439 - INFO]-employee successfully added into university
+[2025-09-09 17:35:47,440 - INFO]-employee successfully added into university
+[2025-09-09 17:35:47,440 - INFO]-employee successfully added into university
+[2025-09-09 17:35:47,441 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-09 17:35:47,441 - INFO]-('1002', ['venkat', 'da', 'IT', '80000'])
+[2025-09-09 17:35:47,441 - INFO]-('1003', ['jai', 'jfs', 'cse', '50000'])
+[2025-09-09 17:36:06,902 - INFO]-student successfully added into university
+[2025-09-09 17:36:06,903 - INFO]-student successfully added into university
+[2025-09-09 17:36:06,903 - INFO]-student successfully added into university
+[2025-09-09 17:36:06,904 - INFO]-employee successfully added into university
+[2025-09-09 17:36:06,904 - INFO]-employee successfully added into university
+[2025-09-09 17:36:06,905 - INFO]-employee successfully added into university
+[2025-09-09 17:36:42,879 - INFO]-student successfully added into university
+[2025-09-09 17:36:42,879 - INFO]-student successfully added into university
+[2025-09-09 17:36:42,880 - INFO]-student successfully added into university
+[2025-09-09 17:36:42,880 - INFO]-employee successfully added into university
+[2025-09-09 17:36:42,881 - INFO]-employee successfully added into university
+[2025-09-09 17:36:42,881 - INFO]-employee successfully added into university
+[2025-09-09 17:36:42,882 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-10 16:04:39,405 - DEBUG]-user in university class
+[2025-09-10 16:04:39,406 - DEBUG]-user in person class
+[2025-09-10 16:04:39,407 - DEBUG]-user in student class
+[2025-09-10 16:04:39,408 - DEBUG]-user in person class
+[2025-09-10 16:04:39,408 - DEBUG]-user in student class
+[2025-09-10 16:04:39,408 - DEBUG]-user in person class
+[2025-09-10 16:04:39,409 - DEBUG]-user in student class
+[2025-09-10 16:04:39,409 - DEBUG]-user in person class
+[2025-09-10 16:04:39,409 - DEBUG]-user in employee class
+[2025-09-10 16:04:39,410 - DEBUG]-user in person class
+[2025-09-10 16:04:39,410 - DEBUG]-user in employee class
+[2025-09-10 16:04:39,410 - DEBUG]-user in person class
+[2025-09-10 16:04:39,411 - DEBUG]-user in employee class
+[2025-09-10 16:04:39,411 - DEBUG]-user in add_student method
+[2025-09-10 16:04:39,412 - INFO]-student successfully added into university
+[2025-09-10 16:04:39,415 - DEBUG]-user in add_student method
+[2025-09-10 16:04:39,415 - INFO]-student successfully added into university
+[2025-09-10 16:04:39,418 - DEBUG]-user in add_student method
+[2025-09-10 16:04:39,418 - INFO]-student successfully added into university
+[2025-09-10 16:04:39,420 - DEBUG]-user in add_employee method
+[2025-09-10 16:04:39,421 - INFO]-employee successfully added into university
+[2025-09-10 16:04:39,432 - DEBUG]-user in add_employee method
+[2025-09-10 16:04:39,433 - INFO]-employee successfully added into university
+[2025-09-10 16:04:39,435 - DEBUG]-user in add_employee method
+[2025-09-10 16:04:39,436 - INFO]-employee successfully added into university
+[2025-09-10 16:04:39,438 - DEBUG]-user in totalemployees method
+[2025-09-10 16:04:39,438 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-10 16:08:11,477 - DEBUG]-user in university class
+[2025-09-10 16:08:11,478 - DEBUG]-user in person class
+[2025-09-10 16:08:11,478 - DEBUG]-user in student class
+[2025-09-10 16:08:11,478 - DEBUG]-user in person class
+[2025-09-10 16:08:11,478 - DEBUG]-user in student class
+[2025-09-10 16:08:11,479 - DEBUG]-user in person class
+[2025-09-10 16:08:11,479 - DEBUG]-user in student class
+[2025-09-10 16:08:11,479 - DEBUG]-user in person class
+[2025-09-10 16:08:11,479 - DEBUG]-user in employee class
+[2025-09-10 16:08:11,479 - DEBUG]-user in person class
+[2025-09-10 16:08:11,479 - DEBUG]-user in employee class
+[2025-09-10 16:08:11,480 - DEBUG]-user in person class
+[2025-09-10 16:08:11,480 - DEBUG]-user in employee class
+[2025-09-10 16:08:11,480 - DEBUG]-user in add_student method
+[2025-09-10 16:08:11,480 - INFO]-student successfully added into university
+[2025-09-10 16:08:11,481 - DEBUG]-user in add_student method
+[2025-09-10 16:08:11,481 - INFO]-student successfully added into university
+[2025-09-10 16:08:11,482 - DEBUG]-user in add_student method
+[2025-09-10 16:08:11,482 - INFO]-student successfully added into university
+[2025-09-10 16:08:11,484 - DEBUG]-user in add_employee method
+[2025-09-10 16:08:11,485 - INFO]-employee successfully added into university
+[2025-09-10 16:08:11,486 - DEBUG]-user in add_employee method
+[2025-09-10 16:08:11,486 - INFO]-employee successfully added into university
+[2025-09-10 16:08:11,488 - DEBUG]-user in add_employee method
+[2025-09-10 16:08:11,488 - INFO]-employee successfully added into university
+[2025-09-10 16:08:11,489 - DEBUG]-user in totalemployees method
+[2025-09-10 16:08:11,489 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-10 16:08:23,640 - DEBUG]-user in university class
+[2025-09-10 16:08:23,641 - DEBUG]-user in person class
+[2025-09-10 16:08:23,641 - DEBUG]-user in student class
+[2025-09-10 16:08:23,641 - DEBUG]-user in person class
+[2025-09-10 16:08:23,641 - DEBUG]-user in student class
+[2025-09-10 16:08:23,641 - DEBUG]-user in person class
+[2025-09-10 16:08:23,642 - DEBUG]-user in student class
+[2025-09-10 16:08:23,642 - DEBUG]-user in person class
+[2025-09-10 16:08:23,642 - DEBUG]-user in employee class
+[2025-09-10 16:08:23,642 - DEBUG]-user in person class
+[2025-09-10 16:08:23,642 - DEBUG]-user in employee class
+[2025-09-10 16:08:23,643 - DEBUG]-user in person class
+[2025-09-10 16:08:23,643 - DEBUG]-user in employee class
+[2025-09-10 16:08:23,643 - DEBUG]-user in add_student method
+[2025-09-10 16:08:23,643 - INFO]-student successfully added into university
+[2025-09-10 16:08:23,644 - DEBUG]-user in add_student method
+[2025-09-10 16:08:23,644 - INFO]-student successfully added into university
+[2025-09-10 16:08:23,645 - DEBUG]-user in add_student method
+[2025-09-10 16:08:23,645 - INFO]-student successfully added into university
+[2025-09-10 16:08:23,646 - DEBUG]-user in add_employee method
+[2025-09-10 16:08:23,646 - INFO]-employee successfully added into university
+[2025-09-10 16:08:23,647 - DEBUG]-user in add_employee method
+[2025-09-10 16:08:23,647 - INFO]-employee successfully added into university
+[2025-09-10 16:08:23,647 - DEBUG]-user in add_employee method
+[2025-09-10 16:08:23,648 - INFO]-employee successfully added into university
+[2025-09-10 16:08:23,648 - DEBUG]-user in totalemployees method
+[2025-09-10 16:08:23,649 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-10 16:09:27,523 - DEBUG]-user in university class
+[2025-09-10 16:09:27,524 - DEBUG]-user in person class
+[2025-09-10 16:09:27,524 - DEBUG]-user in student class
+[2025-09-10 16:09:27,524 - DEBUG]-user in person class
+[2025-09-10 16:09:27,525 - DEBUG]-user in student class
+[2025-09-10 16:09:27,525 - DEBUG]-user in person class
+[2025-09-10 16:09:27,525 - DEBUG]-user in student class
+[2025-09-10 16:09:27,525 - DEBUG]-user in person class
+[2025-09-10 16:09:27,525 - DEBUG]-user in employee class
+[2025-09-10 16:09:27,525 - DEBUG]-user in person class
+[2025-09-10 16:09:27,525 - DEBUG]-user in employee class
+[2025-09-10 16:09:27,526 - DEBUG]-user in person class
+[2025-09-10 16:09:27,526 - DEBUG]-user in employee class
+[2025-09-10 16:09:27,526 - DEBUG]-user in add_student method
+[2025-09-10 16:09:27,526 - INFO]-student successfully added into university
+[2025-09-10 16:09:27,527 - DEBUG]-user in add_student method
+[2025-09-10 16:09:27,527 - INFO]-student successfully added into university
+[2025-09-10 16:09:27,528 - DEBUG]-user in add_student method
+[2025-09-10 16:09:27,528 - INFO]-student successfully added into university
+[2025-09-10 16:09:27,529 - DEBUG]-user in add_employee method
+[2025-09-10 16:09:27,529 - INFO]-employee successfully added into university
+[2025-09-10 16:09:27,530 - DEBUG]-user in add_employee method
+[2025-09-10 16:09:27,530 - INFO]-employee successfully added into university
+[2025-09-10 16:09:27,531 - DEBUG]-user in add_employee method
+[2025-09-10 16:09:27,531 - INFO]-employee successfully added into university
+[2025-09-10 16:09:27,532 - DEBUG]-user in totalemployees method
+[2025-09-10 16:09:27,532 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-10 16:09:47,376 - DEBUG]-user in university class
+[2025-09-10 16:09:47,377 - DEBUG]-user in person class
+[2025-09-10 16:09:47,377 - DEBUG]-user in student class
+[2025-09-10 16:09:47,377 - DEBUG]-user in person class
+[2025-09-10 16:09:47,377 - DEBUG]-user in student class
+[2025-09-10 16:09:47,378 - DEBUG]-user in person class
+[2025-09-10 16:09:47,378 - DEBUG]-user in student class
+[2025-09-10 16:09:47,378 - DEBUG]-user in person class
+[2025-09-10 16:09:47,378 - DEBUG]-user in employee class
+[2025-09-10 16:09:47,378 - DEBUG]-user in person class
+[2025-09-10 16:09:47,378 - DEBUG]-user in employee class
+[2025-09-10 16:09:47,379 - DEBUG]-user in person class
+[2025-09-10 16:09:47,379 - DEBUG]-user in employee class
+[2025-09-10 16:09:47,379 - DEBUG]-user in add_student method
+[2025-09-10 16:09:47,379 - INFO]-student successfully added into university
+[2025-09-10 16:09:47,380 - DEBUG]-user in add_student method
+[2025-09-10 16:09:47,380 - INFO]-student successfully added into university
+[2025-09-10 16:09:47,381 - DEBUG]-user in add_student method
+[2025-09-10 16:09:47,381 - INFO]-student successfully added into university
+[2025-09-10 16:09:47,382 - DEBUG]-user in add_employee method
+[2025-09-10 16:09:47,382 - INFO]-employee successfully added into university
+[2025-09-10 16:09:47,383 - DEBUG]-user in add_employee method
+[2025-09-10 16:09:47,383 - INFO]-employee successfully added into university
+[2025-09-10 16:09:47,383 - DEBUG]-user in add_employee method
+[2025-09-10 16:09:47,384 - INFO]-employee successfully added into university
+[2025-09-10 16:09:47,384 - DEBUG]-user in totalemployees method
+[2025-09-10 16:09:47,385 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-10 16:11:58,394 - DEBUG]-user in university class
+[2025-09-10 16:11:58,395 - DEBUG]-user in person class
+[2025-09-10 16:11:58,395 - DEBUG]-user in student class
+[2025-09-10 16:11:58,395 - DEBUG]-user in person class
+[2025-09-10 16:11:58,395 - DEBUG]-user in student class
+[2025-09-10 16:11:58,395 - DEBUG]-user in person class
+[2025-09-10 16:11:58,396 - DEBUG]-user in student class
+[2025-09-10 16:11:58,396 - DEBUG]-user in person class
+[2025-09-10 16:11:58,396 - DEBUG]-user in employee class
+[2025-09-10 16:11:58,396 - DEBUG]-user in person class
+[2025-09-10 16:11:58,396 - DEBUG]-user in employee class
+[2025-09-10 16:11:58,396 - DEBUG]-user in person class
+[2025-09-10 16:11:58,396 - DEBUG]-user in employee class
+[2025-09-10 16:11:58,397 - DEBUG]-user in add_student method
+[2025-09-10 16:11:58,397 - INFO]-student successfully added into university
+[2025-09-10 16:11:58,397 - DEBUG]-user in add_student method
+[2025-09-10 16:11:58,398 - INFO]-student successfully added into university
+[2025-09-10 16:11:58,399 - DEBUG]-user in add_student method
+[2025-09-10 16:11:58,399 - INFO]-student successfully added into university
+[2025-09-10 16:11:58,400 - DEBUG]-user in add_employee method
+[2025-09-10 16:11:58,400 - INFO]-employee successfully added into university
+[2025-09-10 16:11:58,400 - DEBUG]-user in add_employee method
+[2025-09-10 16:11:58,401 - INFO]-employee successfully added into university
+[2025-09-10 16:11:58,402 - DEBUG]-user in add_employee method
+[2025-09-10 16:11:58,403 - INFO]-employee successfully added into university
+[2025-09-10 16:11:58,404 - DEBUG]-user in totalemployees method
+[2025-09-10 16:11:58,405 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
+[2025-09-10 16:12:54,341 - DEBUG]-user in university class
+[2025-09-10 16:12:54,341 - DEBUG]-user in person class
+[2025-09-10 16:12:54,342 - DEBUG]-user in student class
+[2025-09-10 16:12:54,342 - DEBUG]-user in person class
+[2025-09-10 16:12:54,342 - DEBUG]-user in student class
+[2025-09-10 16:12:54,342 - DEBUG]-user in person class
+[2025-09-10 16:12:54,342 - DEBUG]-user in student class
+[2025-09-10 16:12:54,343 - DEBUG]-user in person class
+[2025-09-10 16:12:54,343 - DEBUG]-user in employee class
+[2025-09-10 16:12:54,343 - DEBUG]-user in person class
+[2025-09-10 16:12:54,343 - DEBUG]-user in employee class
+[2025-09-10 16:12:54,343 - DEBUG]-user in person class
+[2025-09-10 16:12:54,343 - DEBUG]-user in employee class
+[2025-09-10 16:12:54,344 - DEBUG]-user in add_student method
+[2025-09-10 16:18:55,244 - DEBUG]-user in university class
+[2025-09-10 16:18:55,245 - DEBUG]-user in person class
+[2025-09-10 16:18:55,245 - DEBUG]-user in student class
+[2025-09-10 16:18:55,246 - DEBUG]-user in person class
+[2025-09-10 16:18:55,246 - DEBUG]-user in student class
+[2025-09-10 16:18:55,246 - DEBUG]-user in person class
+[2025-09-10 16:18:55,246 - DEBUG]-user in student class
+[2025-09-10 16:18:55,246 - DEBUG]-user in person class
+[2025-09-10 16:18:55,247 - DEBUG]-user in employee class
+[2025-09-10 16:18:55,247 - DEBUG]-user in person class
+[2025-09-10 16:18:55,247 - DEBUG]-user in employee class
+[2025-09-10 16:18:55,247 - DEBUG]-user in person class
+[2025-09-10 16:18:55,247 - DEBUG]-user in employee class
+[2025-09-10 16:18:55,248 - DEBUG]-user in add_student method
+[2025-09-10 16:18:55,249 - INFO]-student successfully added into university
+[2025-09-10 16:18:55,250 - DEBUG]-user in add_student method
+[2025-09-10 16:18:55,250 - INFO]-student successfully added into university
+[2025-09-10 16:18:55,251 - DEBUG]-user in add_student method
+[2025-09-10 16:18:55,251 - INFO]-student successfully added into university
+[2025-09-10 16:18:55,252 - DEBUG]-user in add_employee method
+[2025-09-10 16:18:55,253 - INFO]-employee successfully added into university
+[2025-09-10 16:18:55,254 - DEBUG]-user in add_employee method
+[2025-09-10 16:18:55,254 - INFO]-employee successfully added into university
+[2025-09-10 16:18:55,255 - DEBUG]-user in add_employee method
+[2025-09-10 16:18:55,255 - INFO]-employee successfully added into university
+[2025-09-10 16:18:55,262 - DEBUG]-user in totalemployees method
+[2025-09-10 16:18:55,263 - INFO]-('1001', ['srinu', 'ds', 'cse', '70000'])
